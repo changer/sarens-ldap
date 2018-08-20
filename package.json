@@ -1,0 +1,22 @@
+{
+  "name": "sarens-ldap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/changer/sarens-ldap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/changer/sarens-ldap/issues"
+  },
+  "homepage": "https://github.com/changer/sarens-ldap#readme",
+  "dependencies": {
+    "activedirectory2": "^1.2.6"
+  }
+}
