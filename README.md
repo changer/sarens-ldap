@@ -2,5 +2,7 @@
 
 ## To start:
 
+```
 $ npm install
-$ npm start
+$ node index ldap://x.x.x.x:xxx username password searchFilter
+```
